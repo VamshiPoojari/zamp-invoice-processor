@@ -1,0 +1,8 @@
+streamlit>=1.50  # turns Python into a web app (the UI)
+pandas           # reads CSV files (vendors, POs) and builds tables
+pymupdf          # reads PDF text, and turns scanned pages into images
+requests         # calls the OpenRouter AI over the internet
+python-dotenv    # loads your API keys from the .env file
+rapidfuzz        # "fuzzy" name matching: "Acme Corp" ≈ "ACME Corporation"
+reportlab        # creates our fake test invoice PDFs
+pillow           # edits images (to make the "scanned" test invoice look scanned)

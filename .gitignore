@@ -1,0 +1,17 @@
+# Secrets — never upload these
+.env
+.streamlit/secrets.toml
+
+# Python clutter
+__pycache__/
+*.pyc
+.venv/
+
+# Mac clutter
+.DS_Store
+
+# (.cache/ is committed on purpose: saved AI readings of the sample invoices,
+#  so the hosted demo stays fast even if free models are busy)
+
+# Local run history database
+runs.db

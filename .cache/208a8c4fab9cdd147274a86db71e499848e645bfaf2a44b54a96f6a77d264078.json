@@ -1,0 +1,44 @@
+{
+  "fields": {
+    "vendor_name": "Summit Logistics Co.",
+    "vendor_tax_id": "47-1190385",
+    "invoice_number": "SL-2264",
+    "invoice_date": "2026-11-03",
+    "due_date": "2026-11-18",
+    "po_number": "PO-1002",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Freight services - November 2026",
+        "quantity": 1.0,
+        "unit_price": 4000.0,
+        "amount": 4000.0
+      },
+      {
+        "description": "Fuel surcharge",
+        "quantity": 1.0,
+        "unit_price": 450.0,
+        "amount": 450.0
+      },
+      {
+        "description": "Expedited delivery fee",
+        "quantity": 1.0,
+        "unit_price": 350.0,
+        "amount": 350.0
+      }
+    ],
+    "subtotal": 4800.0,
+    "tax_amount": 0.0,
+    "total": 4800.0,
+    "bank_name": "Bank of America",
+    "bank_account": "3301847726",
+    "notes": "Invoice 3 of 3 against PO-1002. Thank you for your business.",
+    "document_marks": null,
+    "extraction_confidence": "high"
+  },
+  "info": {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "method": "text",
+    "cached": false
+  }
+}

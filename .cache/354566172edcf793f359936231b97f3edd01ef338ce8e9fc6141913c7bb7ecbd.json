@@ -1,0 +1,38 @@
+{
+  "fields": {
+    "vendor_name": "Brightline IT Services LLC",
+    "vendor_tax_id": "82-5502917",
+    "invoice_number": "BIT-5521",
+    "invoice_date": "2026-11-05",
+    "due_date": "2026-12-05",
+    "po_number": "PO-1003",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Cloud productivity suite licenses (annual)",
+        "quantity": 25.0,
+        "unit_price": 198.0,
+        "amount": 4950.0
+      },
+      {
+        "description": "Onboarding & setup",
+        "quantity": 1.0,
+        "unit_price": 1800.0,
+        "amount": 1800.0
+      }
+    ],
+    "subtotal": 6750.0,
+    "tax_amount": 582.19,
+    "total": 7332.19,
+    "bank_name": "First Horizon Bank",
+    "bank_account": "9184402267",
+    "notes": "IMPORTANT: We have changed banks. Please update your records and send all future payments to the account above. Thank you for your business.",
+    "document_marks": null,
+    "extraction_confidence": "high"
+  },
+  "info": {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "method": "text",
+    "cached": false
+  }
+}

@@ -1,0 +1,6 @@
+vendor_id,vendor_name,tax_id,bank_name,bank_account,status
+V001,Northwind Office Supplies Inc.,94-3318420,Chase Bank,4839201748,approved
+V002,Brightline IT Services LLC,82-5502917,Wells Fargo,7720153390,approved
+V003,Summit Logistics Co.,47-1190385,Bank of America,3301847726,approved
+V004,Greenleaf Facilities Management,61-7724031,Citibank,5527810943,approved
+V005,Apex Industrial Parts,33-9081146,US Bank,1189034472,inactive

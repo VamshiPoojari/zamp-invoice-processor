@@ -1,0 +1,38 @@
+{
+  "fields": {
+    "vendor_name": "Northwind Office Supplies Inc.",
+    "vendor_tax_id": "94-3318420",
+    "invoice_number": "INV-0042",
+    "invoice_date": "2026-10-28",
+    "due_date": "2026-11-27",
+    "po_number": "PO-1001",
+    "currency": null,
+    "line_items": [
+      {
+        "description": "Ergonomic office chair (model EC-200)",
+        "quantity": 10.0,
+        "unit_price": 285.0,
+        "amount": 2850.0
+      },
+      {
+        "description": "Standing desk, 60in electric",
+        "quantity": 4.0,
+        "unit_price": 350.0,
+        "amount": 1400.0
+      }
+    ],
+    "subtotal": 4250.0,
+    "tax_amount": 366.56,
+    "total": 4616.56,
+    "bank_name": "Chase Bank",
+    "bank_account": "4839201748",
+    "notes": "Thank you for your business.",
+    "document_marks": null,
+    "extraction_confidence": "high"
+  },
+  "info": {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "method": "text",
+    "cached": false
+  }
+}

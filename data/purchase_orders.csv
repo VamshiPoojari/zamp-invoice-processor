@@ -1,0 +1,7 @@
+po_number,vendor_id,description,total_amount,amount_invoiced,status,created_date
+PO-1001,V001,Office furniture: ergonomic chairs and standing desks,4250.0,0.0,open,2026-10-02
+PO-1002,V003,"Freight & warehousing services, Q4 2026 (billed monthly)",12000.0,8000.0,open,2026-09-15
+PO-1003,V002,Cloud productivity licenses (annual) + onboarding,6750.0,0.0,open,2026-10-10
+PO-1004,V004,"Janitorial & window cleaning, October 2026",2400.0,0.0,open,2026-09-28
+PO-1005,V004,"HVAC repair, Building B",9500.0,0.0,open,2026-10-20
+PO-1006,V001,"Printer paper and toner, Q3 2026",1180.0,1180.0,closed,2026-07-01
